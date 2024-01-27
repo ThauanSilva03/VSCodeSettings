@@ -12,7 +12,7 @@
     "editor.semanticHighlighting.enabled": false,
     "breadcrumbs.enabled": false,
     "workbench.activityBar.location": "hidden",
-    "editor.minimap.enabled": true,
+    "editor.minimap.enabled": false,
     "editor.scrollbar.horizontal": "hidden",
     "editor.scrollbar.vertical": "hidden",
     "terminal.integrated.fontFamily": "JetBrains Mono",
