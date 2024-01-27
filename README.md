@@ -6,6 +6,6 @@
 - Open ```settings.json```
 - Delete all (recommended to new VsCode)
 - Paste the code
-- ```Ctrl + Q``` to open side bar
-  
 
+
+```Ctrl + Q``` to open side bar
